@@ -1,4 +1,4 @@
-**You can access the code in the master branch**
+**You can access the code in the master branch** // The Project has not been deployed yet
 This project started out when i was learning the MERN stack and was stuck in a tutorial hell for a long time. So instead of watching another tutorial on a “How to make X” I thought i would do everything from scratch only with google and a bit of help from chatGPT
 
 So let’s go through the process together
